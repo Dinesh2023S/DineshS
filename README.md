@@ -1,2 +1,2 @@
 # DineshS
-I am DInesh.
+I am Dinesh.
